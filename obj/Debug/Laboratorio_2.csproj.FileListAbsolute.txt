@@ -1,0 +1,11 @@
+C:\Users\dlope\source\repos\Laboratorio_2\Laboratorio_2\bin\Debug\Laboratorio_2.exe.config
+C:\Users\dlope\source\repos\Laboratorio_2\Laboratorio_2\bin\Debug\Laboratorio_2.exe
+C:\Users\dlope\source\repos\Laboratorio_2\Laboratorio_2\bin\Debug\Laboratorio_2.pdb
+C:\Users\dlope\source\repos\Laboratorio_2\Laboratorio_2\obj\Debug\Laboratorio_2.csproj.AssemblyReference.cache
+C:\Users\dlope\source\repos\Laboratorio_2\Laboratorio_2\obj\Debug\Laboratorio_2.Properties.Resources.resources
+C:\Users\dlope\source\repos\Laboratorio_2\Laboratorio_2\obj\Debug\Laboratorio_2.csproj.GenerateResource.cache
+C:\Users\dlope\source\repos\Laboratorio_2\Laboratorio_2\obj\Debug\Laboratorio_2.csproj.CoreCompileInputs.cache
+C:\Users\dlope\source\repos\Laboratorio_2\Laboratorio_2\obj\Debug\Laboratorio_2.exe
+C:\Users\dlope\source\repos\Laboratorio_2\Laboratorio_2\obj\Debug\Laboratorio_2.pdb
+C:\Users\dlope\source\repos\Laboratorio_2\Laboratorio_2\obj\Debug\Laboratorio_2.Inicio.resources
+C:\Users\dlope\source\repos\Laboratorio_2\Laboratorio_2\obj\Debug\Laboratorio_2.Respuesta.resources
